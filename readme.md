@@ -1,5 +1,5 @@
 # Excel Salary Dashboard
-![](images/1_Salary_Dashboard_Final_Dashboard.gif)
+![](Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
 I made this dashboard to help job seekers check salaries for their favorite jobs and make sure they get fair pay. 
