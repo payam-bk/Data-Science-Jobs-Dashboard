@@ -26,7 +26,7 @@ This project uses real data science job info from 2023
 ## Dashboard Build
 📊 Data Science Job Salaries - Bar Chart
 
-![](images/1_Salary_Dashboard_Chart1.png)
+![](Images/1_Salary_Dashboard_Chart1.png)
 - 🛠️ Excel Features: Used a bar chart with money formats and a clean layout.
 - 🎨 Design Choice: Sideways chart to compare middle salaries easily.
 - 💡 Insights Gained: Shows pay trends quickly, proving that Senior jobs and Engineers get paid more than Analysts.
@@ -35,7 +35,7 @@ This project uses real data science job info from 2023
 
 🗺️ Country Median Salaries - Map Chart
 
-![](images/1_Salary_Dashboard.png)
+![](Images/1_Salary_Dashboard.png)
 
 - 🛠️ Excel Features: Used a map chart to show middle salaries around the world.
 - 🎨 Design Choice: Added colors to show different pay levels in different areas.
@@ -62,10 +62,10 @@ IF(
 - 🔢 Formula Purpose: This fills the table below to show the middle salary for the choices made.  
 
 ## 🍽️ Background Table
-![](images/1_Salary_Dashboard_Screenshot1.png)
+![](Images/1_Salary_Dashboard_Screenshot1.png)
 
 ## 📉 Dashboard Implementation
-![](images/1_Salary_Dashboard_Job_Title.png)
+![](Images/1_Salary_Dashboard_Job_Title.png)
 
 ## ⏰ Count of Job Schedule Type
 ```
@@ -75,10 +75,10 @@ IF(
 - 🔢 Formula Purpose: This fills the table below to make a clean list of work types.
 
 ## 🍽️ Background Table
-![](images/1_Salary_Dashboard_Screenshot2.png)
+![](Images/1_Salary_Dashboard_Screenshot2.png)
 
 ## 📉 Dashboard Implementation:
-![](images/1_Salary_Dashboard_Type.png)
+![](Images/1_Salary_Dashboard_Type.png)
 
 ## ❎ Data Validation
 Enhanced Data Validation: Using the clean list for drop-down menus in Job Title, Country, and Type helps because:
@@ -86,7 +86,7 @@ Enhanced Data Validation: Using the clean list for drop-down menus in Job Title,
 - 🚫 It stops wrong typing.
 - 👥 It makes the tool much easier to use.  
 
-![](images/1_Salary_Dashboard_Data_Validation.gif)
+![](Images/1_Salary_Dashboard_Data_Validation.gif)
 
 # Conclusion
 I created this dashboard to show how salaries change across different data jobs. Applying the skills from my Data Science Master's program at Bologna University, I built this tool to help people make smart career choices. You can use it to explore how different countries and work types affect pay in the real world.
